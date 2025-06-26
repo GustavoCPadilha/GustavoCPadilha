@@ -1,6 +1,5 @@
 <h1 align="center">Gustavo Cigerza Padilha </h1>
 
-
 ## 💻 Sobre mim
 
 Me chamo **Gustavo Cigerza Padilha** e sou estudante técnico apaixonado por tecnologia, programação e resolução de problemas.  
