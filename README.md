@@ -1,4 +1,4 @@
-<h1 align="center" color:#731D64>Gustavo Cigerza Padilha </h1>
+<h1 align="center"; color:#731D64;>Gustavo Cigerza Padilha </h1>
 
 ## 💻 Sobre mim
 
