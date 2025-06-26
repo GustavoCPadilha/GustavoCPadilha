@@ -1,6 +1,6 @@
 <h1 align="center">Gustavo Cigerza Padilha </h1>
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
 Me chamo **Gustavo Cigerza Padilha** e sou estudante técnico apaixonado por tecnologia, programação e resolução de problemas.  
 Tenho como objetivo me tornar um **programador profissional**, com foco em desenvolvimento de software e ciência da computação.  
