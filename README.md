@@ -1,9 +1,10 @@
 <h1 align="center">Gustavo Cigerza Padilha </h1>
 
-<p align="center">Estudante Técnico em Desenvolvimento de Sistemas na escola . Atualmente trabalho com Go e estudo Java paralelamente.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
-#
+## 💻 Sobre mim
+
+Me chamo **Gustavo Cigerza Padilha** e sou estudante técnico apaixonado por tecnologia, programação e resolução de problemas.  
+Tenho como objetivo me tornar um **programador profissional**, com foco em desenvolvimento de software e ciência da computação.  
+Sou disciplinado, comunicativo e estou sempre buscando aprender e evoluir.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gu._.padilha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-cigerza-padilha-28bbba23a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:padilhacgustavo@gmail.com) 
